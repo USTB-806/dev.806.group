@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Python - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/python/</link>
+        <description>Python - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 12:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>大模型结合与实践学习指南</title>
+    <link>http://localhost:1313/posts/frieren/large-model-practice-guide/</link>
+    <pubDate>Fri, 01 Nov 2024 12:00:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/frieren/large-model-practice-guide/</guid>
+    <description><![CDATA[<h2 id="简介" class="headerLink">
+    <a href="#%e7%ae%80%e4%bb%8b" class="header-mark"></a>简介</h2><p>人工智能算法对于理解大模型是如何运行与训练起着极其重要的作用，通过网络上的一些优质课程，可以更快地了解熟悉其中的原理与方法。</p>
+<h2 id="具体课程与实战" class="headerLink">
+    <a href="#%e5%85%b7%e4%bd%93%e8%af%be%e7%a8%8b%e4%b8%8e%e5%ae%9e%e6%88%98" class="header-mark"></a>具体课程与实战</h2><h3 id="21-人工智能助手" class="headerLink">
+    <a href="#21-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%8a%a9%e6%89%8b" class="header-mark"></a>2.1 人工智能助手</h3><p>该课程旨在基于已有的大模型进行二次封装，设计一个个性化的智能助手，其中的具体逻辑可以根据用户的需求进行定制。</p>
+<p><a href="https://www.bilibili.com/video/BV1DbpFeYEPr/?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&amp;vd_source=d2cca14f4d62139d9648dcb90430809e" target="_blank" rel="noopener noreferrer">视频课程</a></p>
+<h3 id="22-大模型微调" class="headerLink">
+    <a href="#22-%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%be%ae%e8%b0%83" class="header-mark"></a>2.2 大模型微调</h3><p>大模型微调是利用特定领域的数据集对已预训练的大模型进行进一步训练的过程，可以通过这种方式进一步实现具体目标。</p>
+<p><a href="https://www.bilibili.com/video/BV16C4y197St/?spm_id_from=333.337.search-card.all.click&amp;vd_source=d2cca14f4d62139d9648dcb90430809e" target="_blank" rel="noopener noreferrer">视频课程</a></p>
+<h3 id="23-大模型的部署与应用" class="headerLink">
+    <a href="#23-%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e9%83%a8%e7%bd%b2%e4%b8%8e%e5%ba%94%e7%94%a8" class="header-mark"></a>2.3 大模型的部署与应用</h3><p>对各种优秀的大模型进行部署，了解其具体的实践应用：</p>
+<h4 id="音频类" class="headerLink">
+    <a href="#%e9%9f%b3%e9%a2%91%e7%b1%bb" class="header-mark"></a>音频类</h4><ul>
+<li>so-vits-rvc</li>
+<li>gpt-sovits</li>
+</ul>
+<h4 id="绘画类" class="headerLink">
+    <a href="#%e7%bb%98%e7%94%bb%e7%b1%bb" class="header-mark"></a>绘画类</h4><ul>
+<li>SD (Stable Diffusion)</li>
+<li>flux</li>
+<li>midjourney</li>
+</ul>
+<h4 id="大语言模型" class="headerLink">
+    <a href="#%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b" class="header-mark"></a>大语言模型</h4><ul>
+<li>llama</li>
+<li>glm</li>
+<li>llama-factory</li>
+</ul>
+<h3 id="24-python深入学习" class="headerLink">
+    <a href="#24-python%e6%b7%b1%e5%85%a5%e5%ad%a6%e4%b9%a0" class="header-mark"></a>2.4 Python深入学习</h3><p><a href="https://liaoxuefeng.com/books/python/introduction/index.html" target="_blank" rel="noopener noreferrer">廖雪峰Python教程 - 简介</a></p>
+<h2 id="学习路径" class="headerLink">
+    <a href="#%e5%ad%a6%e4%b9%a0%e8%b7%af%e5%be%84" class="header-mark"></a>学习路径</h2><p>通过系统学习以上课程，从理论到实践全面掌握大模型的应用与部署技能。</p>]]></description>
+</item></channel>
+</rss>

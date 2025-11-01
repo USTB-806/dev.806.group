@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>树莓派 - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
+        <description>树莓派 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 10:30:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" rel="self" type="application/rss+xml" /><item>
+    <title>嵌入式开发学习指南</title>
+    <link>http://localhost:1313/posts/fridemn/embedded-development-guide/</link>
+    <pubDate>Fri, 01 Nov 2024 10:30:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/fridemn/embedded-development-guide/</guid>
+    <description><![CDATA[<h2 id="简介" class="headerLink">
+    <a href="#%e7%ae%80%e4%bb%8b" class="header-mark"></a>简介</h2><p>对于嵌入式初学者来说，STM32的开发环境和配置相对复杂，因此从Arduino和树莓派入手是一个不错的选择，能够更快地进行实战项目尝试。</p>
+<ul>
+<li><strong>Arduino</strong>：通常使用一种基于C/C++的语言，Arduino IDE提供了许多简化的库和函数，使得初学者更容易上手。</li>
+<li><strong>树莓派</strong>：可以使用多种编程语言，其中Python是最常用的，因为它简单易学，且有丰富的库支持，适合快速开发。</li>
+</ul>
+<p>Arduino适合用于控制硬件、传感器等低功耗的嵌入式项目，而树莓派则适合更复杂的应用，比如图像处理、网络应用等。</p>
+<h2 id="arduino" class="headerLink">
+    <a href="#arduino" class="header-mark"></a>Arduino</h2><h3 id="官网" class="headerLink">
+    <a href="#%e5%ae%98%e7%bd%91" class="header-mark"></a>官网</h3><p><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - 主页</a></p>
+<h3 id="中文教程网站" class="headerLink">
+    <a href="#%e4%b8%ad%e6%96%87%e6%95%99%e7%a8%8b%e7%bd%91%e7%ab%99" class="header-mark"></a>中文教程网站</h3><p><a href="http://www.taichi-maker.com/" target="_blank" rel="noopener noreferrer">太极创客 – Arduino，人工智能，物联网的应用、开发和学习资料</a></p>
+<h3 id="相关视频教程" class="headerLink">
+    <a href="#%e7%9b%b8%e5%85%b3%e8%a7%86%e9%a2%91%e6%95%99%e7%a8%8b" class="header-mark"></a>相关视频教程</h3><p><a href="https://www.bilibili.com/video/BV164411J7GE/?spm_id_from=333.337.search-card.all.click&amp;vd_source=6224cbfb92381964ffb0d531cec7e040" target="_blank" rel="noopener noreferrer">【太极创客】零基础入门学用Arduino 第一部分 合辑_哔哩哔哩_bilibili</a></p>
+<h2 id="树莓派" class="headerLink">
+    <a href="#%e6%a0%91%e8%8e%93%e6%b4%be" class="header-mark"></a>树莓派</h2><p><a href="https://hackpi.fun/docs/" target="_blank" rel="noopener noreferrer">树莓派中文文档</a></p>
+<h2 id="其他资源" class="headerLink">
+    <a href="#%e5%85%b6%e4%bb%96%e8%b5%84%e6%ba%90" class="header-mark"></a>其他资源</h2><h3 id="硬件项目网站" class="headerLink">
+    <a href="#%e7%a1%ac%e4%bb%b6%e9%a1%b9%e7%9b%ae%e7%bd%91%e7%ab%99" class="header-mark"></a>硬件项目网站</h3><p><a href="https://www.itprojects.cn/coursecenter-hardware.html" target="_blank" rel="noopener noreferrer">it项目网【官网】-配套软件+硬件，教程视频，通俗易懂</a></p>
+<h2 id="学习规划" class="headerLink">
+    <a href="#%e5%ad%a6%e4%b9%a0%e8%a7%84%e5%88%92" class="header-mark"></a>学习规划</h2><h3 id="第一阶段树莓派项目113-1128" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e6%a0%91%e8%8e%93%e6%b4%be%e9%a1%b9%e7%9b%ae113-1128" class="header-mark"></a>第一阶段：树莓派项目（11.3-11.28）</h3><p>使用树莓派完成一个可交互的AI-agent</p>
+<h3 id="第二阶段arduino学习121-11" class="headerLink">
+    <a href="#%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5arduino%e5%ad%a6%e4%b9%a0121-11" class="header-mark"></a>第二阶段：Arduino学习（12.1-1.1）</h3><p>完成Arduino基础学习和项目实践</p>]]></description>
+</item></channel>
+</rss>

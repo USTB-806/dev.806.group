@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>静态网站 - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
+        <description>静态网站 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 14:30:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo 博客搭建指南</title>
+    <link>http://localhost:1313/posts/hugo-setup-guide/</link>
+    <pubDate>Thu, 30 Oct 2025 14:30:00 &#43;0800</pubDate><author>
+        <name>博主</name>
+    </author><guid>http://localhost:1313/posts/hugo-setup-guide/</guid>
+    <description><![CDATA[<h1 id="hugo-博客搭建完整指南" class="headerLink">
+    <a href="#hugo-%e5%8d%9a%e5%ae%a2%e6%90%ad%e5%bb%ba%e5%ae%8c%e6%95%b4%e6%8c%87%e5%8d%97" class="header-mark"></a>Hugo 博客搭建完整指南</h1><h2 id="什么是-hugo" class="headerLink">
+    <a href="#%e4%bb%80%e4%b9%88%e6%98%af-hugo" class="header-mark"></a>什么是 Hugo？</h2><p>Hugo 是一个用 Go 语言编写的静态网站生成器，它可以将 Markdown 文件快速转换为静态网页。</p>
+<h2 id="安装-hugo" class="headerLink">
+    <a href="#%e5%ae%89%e8%a3%85-hugo" class="header-mark"></a>安装 Hugo</h2><h3 id="windows-系统" class="headerLink">
+    <a href="#windows-%e7%b3%bb%e7%bb%9f" class="header-mark"></a>Windows 系统</h3><div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">bash</p>]]></description>
+</item></channel>
+</rss>

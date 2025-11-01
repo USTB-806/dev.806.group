@@ -1,0 +1,146 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>学习路线 - Category - My New Hugo Site</title>
+        <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</link>
+        <description>学习路线 - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2024 00:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/" rel="self" type="application/rss+xml" /><item>
+    <title>前端开发学习规划</title>
+    <link>http://localhost:1313/posts/tada-zako/frontend-development-plan/</link>
+    <pubDate>Mon, 04 Nov 2024 00:00:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/tada-zako/frontend-development-plan/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src='/images/Bocchi_swimming.gif'   alt="Bocchi_swimming"  ></p>
+<h2 id="简介" class="headerLink">
+    <a href="#%e7%ae%80%e4%bb%8b" class="header-mark"></a>简介</h2><p>简单梳理下当下<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>学习前端的简要规划，包括学习流程、前端语法、框架以及希望尝试的项目等等。</p>
+<h2 id="目录" class="headerLink">
+    <a href="#%e7%9b%ae%e5%bd%95" class="header-mark"></a>目录</h2><ol>
+<li><a href="#%e5%ad%a6%e4%b9%a0%e6%b5%81%e7%a8%8b" rel="">学习流程</a></li>
+<li><a href="#%e5%89%8d%e7%ab%af%e8%af%ad%e6%b3%95" rel="">前端语法</a></li>
+<li><a href="#%e5%89%8d%e7%ab%af%e6%9e%b6%e6%9e%84" rel="">前端架构</a></li>
+<li><a href="#%e9%a1%b9%e7%9b%ae" rel="">项目</a></li>
+</ol>
+<h2 id="学习流程" class="headerLink">
+    <a href="#%e5%ad%a6%e4%b9%a0%e6%b5%81%e7%a8%8b" class="header-mark"></a>学习流程</h2><ul>
+<li><strong>打好基础</strong>：学习HTML、CSS、JavaScript的基础语法</li>
+<li><strong>进阶学习</strong>：了解并学习主流前端框架，如Vue.js或者React</li>
+<li><strong>项目实践</strong>：尝试在GitHub上找些完整的前端项目复刻，或是参与开源项目的完善</li>
+</ul>
+<h2 id="前端语法" class="headerLink">
+    <a href="#%e5%89%8d%e7%ab%af%e8%af%ad%e6%b3%95" class="header-mark"></a>前端语法</h2><h3 id="html" class="headerLink">
+    <a href="#html" class="header-mark"></a>HTML</h3><ul>
+<li><strong>介绍</strong>：超文本标记语言（简称：HTML）是一种用于创建网页的标准标记语言</li>
+<li><strong>学习渠道</strong>：
+<ul>
+<li><a href="https://www.runoob.com/html/html-tutorial.html" target="_blank" rel="noopener noreferrer">HTML教程 | 菜鸟教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kM4y127Li/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&amp;vd_source=8d14b77de9d6f71bbbfe57d47c50fe52" target="_blank" rel="noopener noreferrer">前端Web开发HTML5+CSS3+移动web视频教程</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="css" class="headerLink">
+    <a href="#css" class="header-mark"></a>CSS</h3><ul>
+<li><strong>介绍</strong>：CSS（层叠样式表），是一种用来为结构化文档（如 HTML 文档或 XML 应用）添加样式（字体、间距和颜色等）的计算机语言</li>
+<li><strong>学习渠道</strong>：
+<ul>
+<li><a href="https://www.runoob.com/css/css-tutorial.html" target="_blank" rel="noopener noreferrer">CSS教程 | 菜鸟教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kM4y127Li/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&amp;vd_source=8d14b77de9d6f71bbbfe57d47c50fe52" target="_blank" rel="noopener noreferrer">前端Web开发HTML5+CSS3+移动web视频教程</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="javascript" class="headerLink">
+    <a href="#javascript" class="header-mark"></a>JavaScript</h3><ul>
+<li><strong>介绍</strong>：JavaScript是一种高级、动态、弱类型的编程语言，主要用于为网页添加交互功能</li>
+<li><strong>学习渠道</strong>：
+<ul>
+<li><a href="https://www.runoob.com/js/js-tutorial.html" target="_blank" rel="noopener noreferrer">JavaScript教程 | 菜鸟教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Y84y1L7Nn/?vd_source=8d14b77de9d6f71bbbfe57d47c50fe52" target="_blank" rel="noopener noreferrer">黑马程序员前端JavaScript入门到精通全套视频教程</a></li>
+</ul>
+</li>
+<li><strong>预期时间</strong>：1-2周</li>
+</ul>
+<h3 id="ajax" class="headerLink">
+    <a href="#ajax" class="header-mark"></a>Ajax</h3><ul>
+<li><strong>介绍</strong>：异步JavaScript和XML，是一种用于在不重新加载整个网页的情况下，从服务器异步获取数据并更新网页的技术</li>
+<li><strong>学习渠道</strong>：<a href="https://www.runoob.com/ajax/ajax-tutorial.html" target="_blank" rel="noopener noreferrer">AJAX教程 | 菜鸟教程</a></li>
+</ul>
+<h2 id="前端架构" class="headerLink">
+    <a href="#%e5%89%8d%e7%ab%af%e6%9e%b6%e6%9e%84" class="header-mark"></a>前端架构</h2><h3 id="vue" class="headerLink">
+    <a href="#vue" class="header-mark"></a>Vue</h3><ul>
+<li><strong>介绍</strong>：是一套构建用户界面的渐进式框架，采用自底向上增量开发的设计</li>
+<li><strong>学习渠道</strong>：
+<ul>
+<li><a href="https://www.runoob.com/vue2/vue-tutorial.html" target="_blank" rel="noopener noreferrer">Vue.js教程 | 菜鸟教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1HV4y1a7n4/?vd_source=8d14b77de9d6f71bbbfe57d47c50fe52" target="_blank" rel="noopener noreferrer">前端最新Vue2+Vue3基础入门到实战项目全套教程</a></li>
+</ul>
+</li>
+<li><strong>预期时间</strong>：3-4周</li>
+</ul>
+<h2 id="项目规划" class="headerLink">
+    <a href="#%e9%a1%b9%e7%9b%ae%e8%a7%84%e5%88%92" class="header-mark"></a>项目规划</h2><h3 id="个人博客" class="headerLink">
+    <a href="#%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2" class="header-mark"></a>个人博客</h3><ul>
+<li><strong>介绍</strong>：完善部署在<a href="https://tada-zako.top" target="_blank" rel="noopener noreferrer">tada-zako.top</a>的个人博客，包括主题完善，文章更新</li>
+<li><strong>预期时间</strong>：2、3天完善主题，有空写写文章</li>
+</ul>
+<h3 id="web项目" class="headerLink">
+    <a href="#web%e9%a1%b9%e7%9b%ae" class="header-mark"></a>Web项目</h3><ul>
+<li><strong>介绍</strong>：在GitHub上尝试感兴趣的项目实现</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>2024/11/04 UPDATE&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description>
+</item><item>
+    <title>后端开发学习指南</title>
+    <link>http://localhost:1313/posts/tada-zako/backend-development-guide/</link>
+    <pubDate>Fri, 01 Nov 2024 13:00:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/tada-zako/backend-development-guide/</guid>
+    <description><![CDATA[<h2 id="简介" class="headerLink">
+    <a href="#%e7%ae%80%e4%bb%8b" class="header-mark"></a>简介</h2><p>后端开发是构建应用程序服务器端逻辑、数据库和API的过程，负责处理数据存储、业务逻辑和与前端的交互。</p>
+<h2 id="学习路线" class="headerLink">
+    <a href="#%e5%ad%a6%e4%b9%a0%e8%b7%af%e7%ba%bf" class="header-mark"></a>学习路线</h2><h3 id="第一阶段基础概念" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e5%9f%ba%e7%a1%80%e6%a6%82%e5%bf%b5" class="header-mark"></a>第一阶段：基础概念</h3><ul>
+<li><strong>服务器基础</strong>：了解Web服务器、HTTP协议、RESTful API设计</li>
+<li><strong>编程语言</strong>：选择一门后端语言深入学习（Python/Java/Go/Node.js）</li>
+<li><strong>数据库基础</strong>：SQL和NoSQL数据库的基本操作</li>
+</ul>
+<h3 id="第二阶段框架学习" class="headerLink">
+    <a href="#%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5%e6%a1%86%e6%9e%b6%e5%ad%a6%e4%b9%a0" class="header-mark"></a>第二阶段：框架学习</h3><ul>
+<li><strong>Web框架</strong>：学习主流后端框架
+<ul>
+<li>Python: FastAPI, Django, Flask</li>
+<li>Node.js: Express, Koa</li>
+<li>Go: Gin, Echo</li>
+</ul>
+</li>
+<li><strong>数据库ORM</strong>：学习对象关系映射工具</li>
+<li><strong>身份认证</strong>：JWT, OAuth2.0</li>
+</ul>
+<h3 id="第三阶段进阶技能" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%89%e9%98%b6%e6%ae%b5%e8%bf%9b%e9%98%b6%e6%8a%80%e8%83%bd" class="header-mark"></a>第三阶段：进阶技能</h3><ul>
+<li><strong>微服务架构</strong>：服务拆分、API网关、服务发现</li>
+<li><strong>缓存技术</strong>：Redis, Memcached</li>
+<li><strong>消息队列</strong>：RabbitMQ, Apache Kafka</li>
+<li><strong>容器化</strong>：Docker, Kubernetes</li>
+</ul>
+<h2 id="推荐学习资源" class="headerLink">
+    <a href="#%e6%8e%a8%e8%8d%90%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%ba%90" class="header-mark"></a>推荐学习资源</h2><h3 id="在线教程" class="headerLink">
+    <a href="#%e5%9c%a8%e7%ba%bf%e6%95%99%e7%a8%8b" class="header-mark"></a>在线教程</h3><ul>
+<li><a href="https://www.runoob.com/" target="_blank" rel="noopener noreferrer">菜鸟教程 - 后端开发</a></li>
+<li><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener noreferrer">廖雪峰Python教程</a></li>
+<li><a href="https://books.studygolang.com/gopl-zh/" target="_blank" rel="noopener noreferrer">Go语言圣经</a></li>
+</ul>
+<h3 id="实战项目" class="headerLink">
+    <a href="#%e5%ae%9e%e6%88%98%e9%a1%b9%e7%9b%ae" class="header-mark"></a>实战项目</h3><ul>
+<li>构建RESTful API服务</li>
+<li>开发用户认证系统</li>
+<li>实现文件上传下载功能</li>
+<li>集成第三方支付接口</li>
+</ul>
+<h2 id="学习时间安排" class="headerLink">
+    <a href="#%e5%ad%a6%e4%b9%a0%e6%97%b6%e9%97%b4%e5%ae%89%e6%8e%92" class="header-mark"></a>学习时间安排</h2><p>建议用2-3个月时间完成基础学习，再用3-4个月时间进行项目实战和进阶技能学习。</p>]]></description>
+</item></channel>
+</rss>

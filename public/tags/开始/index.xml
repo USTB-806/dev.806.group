@@ -1,0 +1,36 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>开始 - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/%E5%BC%80%E5%A7%8B/</link>
+        <description>开始 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 10:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%BC%80%E5%A7%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>我的第一篇博客文章</title>
+    <link>http://localhost:1313/posts/first-post/</link>
+    <pubDate>Sat, 01 Nov 2025 10:00:00 &#43;0800</pubDate><author>
+        <name>博主</name>
+    </author><guid>http://localhost:1313/posts/first-post/</guid>
+    <description><![CDATA[<h1 id="欢迎来到我的博客" class="headerLink">
+    <a href="#%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84%e5%8d%9a%e5%ae%a2" class="header-mark"></a>欢迎来到我的博客</h1><p>这是我的第一篇使用 Hugo 和 DoIt 主题创建的文章！</p>
+<h2 id="为什么选择-hugo" class="headerLink">
+    <a href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e9%80%89%e6%8b%a9-hugo" class="header-mark"></a>为什么选择 Hugo</h2><p>Hugo 是一个快速、现代的静态网站生成器，它：</p>
+<ul>
+<li>⚡ 构建速度极快</li>
+<li>🎯 零依赖，单个二进制文件</li>
+<li>📱 支持响应式设计</li>
+<li>🌍 内置多语言支持</li>
+</ul>
+<h2 id="doit-主题特色" class="headerLink">
+    <a href="#doit-%e4%b8%bb%e9%a2%98%e7%89%b9%e8%89%b2" class="header-mark"></a>DoIt 主题特色</h2><p>DoIt 主题提供了许多强大的功能：</p>
+<ul>
+<li>🎨 现代化的设计</li>
+<li>📱 完美的移动端适配</li>
+<li>🔍 内置搜索功能</li>
+<li>🌓 深色/浅色主题切换</li>
+<li>📝 丰富的短代码支持</li>
+</ul>
+<h2 id="接下来" class="headerLink">
+    <a href="#%e6%8e%a5%e4%b8%8b%e6%9d%a5" class="header-mark"></a>接下来</h2><p>在接下来的文章中，我将分享更多关于技术、编程和生活的内容。敬请期待！</p>
+<hr>
+<p><em>感谢您的阅读！如果您有任何问题或建议，欢迎在评论区留言。</em></p>]]></description>
+</item></channel>
+</rss>

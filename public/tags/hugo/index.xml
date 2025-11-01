@@ -1,0 +1,130 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/hugo/</link>
+        <description>Hugo - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 10:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>我的第一篇博客文章</title>
+    <link>http://localhost:1313/posts/first-post/</link>
+    <pubDate>Sat, 01 Nov 2025 10:00:00 &#43;0800</pubDate><author>
+        <name>博主</name>
+    </author><guid>http://localhost:1313/posts/first-post/</guid>
+    <description><![CDATA[<h1 id="欢迎来到我的博客" class="headerLink">
+    <a href="#%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84%e5%8d%9a%e5%ae%a2" class="header-mark"></a>欢迎来到我的博客</h1><p>这是我的第一篇使用 Hugo 和 DoIt 主题创建的文章！</p>
+<h2 id="为什么选择-hugo" class="headerLink">
+    <a href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e9%80%89%e6%8b%a9-hugo" class="header-mark"></a>为什么选择 Hugo</h2><p>Hugo 是一个快速、现代的静态网站生成器，它：</p>
+<ul>
+<li>⚡ 构建速度极快</li>
+<li>🎯 零依赖，单个二进制文件</li>
+<li>📱 支持响应式设计</li>
+<li>🌍 内置多语言支持</li>
+</ul>
+<h2 id="doit-主题特色" class="headerLink">
+    <a href="#doit-%e4%b8%bb%e9%a2%98%e7%89%b9%e8%89%b2" class="header-mark"></a>DoIt 主题特色</h2><p>DoIt 主题提供了许多强大的功能：</p>
+<ul>
+<li>🎨 现代化的设计</li>
+<li>📱 完美的移动端适配</li>
+<li>🔍 内置搜索功能</li>
+<li>🌓 深色/浅色主题切换</li>
+<li>📝 丰富的短代码支持</li>
+</ul>
+<h2 id="接下来" class="headerLink">
+    <a href="#%e6%8e%a5%e4%b8%8b%e6%9d%a5" class="header-mark"></a>接下来</h2><p>在接下来的文章中，我将分享更多关于技术、编程和生活的内容。敬请期待！</p>
+<hr>
+<p><em>感谢您的阅读！如果您有任何问题或建议，欢迎在评论区留言。</em></p>]]></description>
+</item><item>
+    <title>Hugo 博客搭建指南</title>
+    <link>http://localhost:1313/posts/hugo-setup-guide/</link>
+    <pubDate>Thu, 30 Oct 2025 14:30:00 &#43;0800</pubDate><author>
+        <name>博主</name>
+    </author><guid>http://localhost:1313/posts/hugo-setup-guide/</guid>
+    <description><![CDATA[<h1 id="hugo-博客搭建完整指南" class="headerLink">
+    <a href="#hugo-%e5%8d%9a%e5%ae%a2%e6%90%ad%e5%bb%ba%e5%ae%8c%e6%95%b4%e6%8c%87%e5%8d%97" class="header-mark"></a>Hugo 博客搭建完整指南</h1><h2 id="什么是-hugo" class="headerLink">
+    <a href="#%e4%bb%80%e4%b9%88%e6%98%af-hugo" class="header-mark"></a>什么是 Hugo？</h2><p>Hugo 是一个用 Go 语言编写的静态网站生成器，它可以将 Markdown 文件快速转换为静态网页。</p>
+<h2 id="安装-hugo" class="headerLink">
+    <a href="#%e5%ae%89%e8%a3%85-hugo" class="header-mark"></a>安装 Hugo</h2><h3 id="windows-系统" class="headerLink">
+    <a href="#windows-%e7%b3%bb%e7%bb%9f" class="header-mark"></a>Windows 系统</h3><div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">bash</p>]]></description>
+</item><item>
+    <title>Origin文章移植完成总结</title>
+    <link>http://localhost:1313/posts/migration-summary/</link>
+    <pubDate>Fri, 01 Nov 2024 14:00:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/migration-summary/</guid>
+    <description><![CDATA[<h2 id="迁移完成总结" class="headerLink">
+    <a href="#%e8%bf%81%e7%a7%bb%e5%ae%8c%e6%88%90%e6%80%bb%e7%bb%93" class="header-mark"></a>迁移完成总结</h2><p>本次成功将Origin目录下的所有文章移植到新的Hugo框架中，具体包括：</p>
+<h3 id="已完成移植的文章" class="headerLink">
+    <a href="#%e5%b7%b2%e5%ae%8c%e6%88%90%e7%a7%bb%e6%a4%8d%e7%9a%84%e6%96%87%e7%ab%a0" class="header-mark"></a>已完成移植的文章</h3><h4 id="fridemn系列3篇" class="headerLink">
+    <a href="#fridemn%e7%b3%bb%e5%88%973%e7%af%87" class="header-mark"></a>Fridemn系列（3篇）</h4><ol>
+<li><strong>前端开发学习指南</strong> - <code>content/posts/fridemn/frontend-development-guide.md</code></li>
+<li><strong>嵌入式开发学习指南</strong> - <code>content/posts/fridemn/embedded-development-guide.md</code></li>
+<li><strong>AIGC学习指南</strong> - <code>content/posts/fridemn/aigc-learning-guide.md</code></li>
+</ol>
+<h4 id="frieren系列2篇" class="headerLink">
+    <a href="#frieren%e7%b3%bb%e5%88%972%e7%af%87" class="header-mark"></a>Frieren系列（2篇）</h4><ol>
+<li><strong>AI+硬件创新大赛学习路线</strong> - <code>content/posts/frieren/ai-hardware-competition-guide.md</code></li>
+<li><strong>大模型结合与实践学习指南</strong> - <code>content/posts/frieren/large-model-practice-guide.md</code></li>
+</ol>
+<h4 id="soulter系列1篇" class="headerLink">
+    <a href="#soulter%e7%b3%bb%e5%88%971%e7%af%87" class="header-mark"></a>Soulter系列（1篇）</h4><ol>
+<li><strong>开发工具推荐清单</strong> - <code>content/posts/soulter/recommended-development-tools.md</code></li>
+</ol>
+<h4 id="tada-zako系列2篇" class="headerLink">
+    <a href="#tada-zako%e7%b3%bb%e5%88%972%e7%af%87" class="header-mark"></a>tada-zako系列（2篇）</h4><ol>
+<li><strong>前端开发学习规划</strong> - <code>content/posts/tada-zako/frontend-development-plan.md</code></li>
+<li><strong>后端开发学习指南</strong> - <code>content/posts/tada-zako/backend-development-guide.md</code></li>
+</ol>
+<h3 id="资源文件处理" class="headerLink">
+    <a href="#%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6%e5%a4%84%e7%90%86" class="header-mark"></a>资源文件处理</h3><ul>
+<li>成功迁移tada-zako的表情包资源到<code>static/images/</code>目录</li>
+<li>包含：Bocchi_shake_head.gif, Bocchi_swimming.gif, dinner_Bocchi.jpg</li>
+</ul>
+<h3 id="技术特点" class="headerLink">
+    <a href="#%e6%8a%80%e6%9c%af%e7%89%b9%e7%82%b9" class="header-mark"></a>技术特点</h3><p>所有文章都已转换为符合Hugo标准的格式，包含：</p>
+<ul>
+<li>完整的Front Matter元数据</li>
+<li>适当的分类和标签</li>
+<li>目录结构优化</li>
+<li>链接格式标准化</li>
+</ul>
+<h3 id="目录结构" class="headerLink">
+    <a href="#%e7%9b%ae%e5%bd%95%e7%bb%93%e6%9e%84" class="header-mark"></a>目录结构</h3><div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">text</p>]]></description>
+</item></channel>
+</rss>

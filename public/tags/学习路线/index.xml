@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>学习路线 - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</link>
+        <description>学习路线 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 10:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/" rel="self" type="application/rss+xml" /><item>
+    <title>前端开发学习指南</title>
+    <link>http://localhost:1313/posts/fridemn/frontend-development-guide/</link>
+    <pubDate>Fri, 01 Nov 2024 10:00:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/fridemn/frontend-development-guide/</guid>
+    <description><![CDATA[<h2 id="简介" class="headerLink">
+    <a href="#%e7%ae%80%e4%bb%8b" class="header-mark"></a>简介</h2><p>前端开发是指构建用户界面和用户体验的过程，主要涉及网页和应用程序的视觉和互动部分。前端开发的目标是使用户能够与网站或应用程序进行有效的交互。</p>
+<h2 id="了解基本语法" class="headerLink">
+    <a href="#%e4%ba%86%e8%a7%a3%e5%9f%ba%e6%9c%ac%e8%af%ad%e6%b3%95" class="header-mark"></a>了解基本语法</h2><p><a href="https://www.bilibili.com/video/BV1BT4y1W7Aw/?spm_id_from=333.337.search-card.all.click&amp;vd_source=6224cbfb92381964ffb0d531cec7e040" target="_blank" rel="noopener noreferrer">3小时前端入门教程（HTML+CSS+JS）_哔哩哔哩_bilibili</a></p>
+<h2 id="nodejs" class="headerLink">
+    <a href="#nodejs" class="header-mark"></a>Node.js</h2><p>JavaScript 运行时环境</p>
+<p><a href="https://nodejs.org/zh-cn/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noopener noreferrer">官方文档</a></p>
+<h2 id="css" class="headerLink">
+    <a href="#css" class="header-mark"></a>CSS</h2><p>调整网页样式</p>
+<p><a href="https://www.runoob.com/css/css-tutorial.html" target="_blank" rel="noopener noreferrer">CSS 教程 | 菜鸟教程</a></p>
+<h2 id="框架学习" class="headerLink">
+    <a href="#%e6%a1%86%e6%9e%b6%e5%ad%a6%e4%b9%a0" class="header-mark"></a>框架学习</h2><h3 id="vue" class="headerLink">
+    <a href="#vue" class="header-mark"></a>Vue</h3><blockquote>
+  <p>Vue (发音为 /vjuː/，类似 <strong>view</strong>) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任。</p>
+
+</blockquote><p><a href="https://cn.vuejs.org/" target="_blank" rel="noopener noreferrer">官方文档</a></p>
+<h3 id="electron" class="headerLink">
+    <a href="#electron" class="header-mark"></a>Electron</h3><blockquote>
+  <p>Electron是一个使用 JavaScript、HTML 和 CSS 构建桌面应用程序的框架。</p>
+
+</blockquote><p><a href="https://www.electronjs.org/zh/docs/latest/" target="_blank" rel="noopener noreferrer">官方文档</a></p>
+<h3 id="electron-vite" class="headerLink">
+    <a href="#electron-vite" class="header-mark"></a>Electron-Vite</h3><blockquote>
+  <p>electron-vite 是一个新型构建工具，旨在为 <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">Electron</a> 提供更快、更精简的开发体验。</p>
+
+</blockquote><p>便于同时使用Vue和Electron进行开发。</p>
+<p><a href="https://cn.electron-vite.org/guide/" target="_blank" rel="noopener noreferrer">官方文档</a></p>
+<h2 id="项目实战" class="headerLink">
+    <a href="#%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%88%98" class="header-mark"></a>项目实战</h2><p><a href="https://www.bilibili.com/video/BV1qz421Y7zR/?spm_id_from=333.999.0.0&amp;vd_source=6224cbfb92381964ffb0d531cec7e040" target="_blank" rel="noopener noreferrer">Vue3+Electron 项目实战 EasyChat 仿微信 计算机毕业设计 简历项目 项目经验(已完结)_哔哩哔哩_bilibili</a></p>
+<h2 id="仍需精进的" class="headerLink">
+    <a href="#%e4%bb%8d%e9%9c%80%e7%b2%be%e8%bf%9b%e7%9a%84" class="header-mark"></a>仍需精进的</h2><h3 id="设计图快速转代码" class="headerLink">
+    <a href="#%e8%ae%be%e8%ae%a1%e5%9b%be%e5%bf%ab%e9%80%9f%e8%bd%ac%e4%bb%a3%e7%a0%81" class="header-mark"></a>设计图快速转代码</h3><h3 id="代码规范" class="headerLink">
+    <a href="#%e4%bb%a3%e7%a0%81%e8%a7%84%e8%8c%83" class="header-mark"></a>代码规范</h3>]]></description>
+</item></channel>
+</rss>

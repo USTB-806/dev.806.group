@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>后端 - Tag - My New Hugo Site</title>
+        <link>http://localhost:1313/tags/%E5%90%8E%E7%AB%AF/</link>
+        <description>后端 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 12:30:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%90%8E%E7%AB%AF/" rel="self" type="application/rss+xml" /><item>
+    <title>开发工具推荐清单</title>
+    <link>http://localhost:1313/posts/soulter/recommended-development-tools/</link>
+    <pubDate>Fri, 01 Nov 2024 12:30:00 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/soulter/recommended-development-tools/</guid>
+    <description><![CDATA[<h2 id="协作与效率" class="headerLink">
+    <a href="#%e5%8d%8f%e4%bd%9c%e4%b8%8e%e6%95%88%e7%8e%87" class="header-mark"></a>协作与效率</h2><h3 id="apifox" class="headerLink">
+    <a href="#apifox" class="header-mark"></a>APIFox</h3><p><a href="https://www.apifox.cn/" target="_blank" rel="noopener noreferrer">https://www.apifox.cn/</a> - API 设计、开发一体化协作平台。在项目设计的时候需要设计接口文档，可以使用这个工具，方便团队之间协作。</p>
+<h3 id="github-actions" class="headerLink">
+    <a href="#github-actions" class="header-mark"></a>GitHub Actions</h3><p><a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">https://github.com/features/actions</a> - GitHub 提供的 CI/CD 服务，可以用于自动化构建、测试、部署等。</p>
+<h2 id="paas-服务" class="headerLink">
+    <a href="#paas-%e6%9c%8d%e5%8a%a1" class="header-mark"></a>PaaS 服务</h2><h3 id="cloudflare-cdn" class="headerLink">
+    <a href="#cloudflare-cdn" class="header-mark"></a>Cloudflare CDN</h3><p><a href="https://cloudflare.com/" target="_blank" rel="noopener noreferrer">https://cloudflare.com/</a> - 免费的 CDN 和 DNS 服务。</p>
+<h3 id="vercel" class="headerLink">
+    <a href="#vercel" class="header-mark"></a>Vercel</h3><p><a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">https://vercel.com/</a> - 免费的 Node.js 项目部署托管和 CDN 服务。</p>
+<h3 id="framer" class="headerLink">
+    <a href="#framer" class="header-mark"></a>Framer</h3><p><a href="https://framer.com/" target="_blank" rel="noopener noreferrer">https://framer.com/</a> - 免费的网页设计工具。</p>
+<h2 id="前端开发" class="headerLink">
+    <a href="#%e5%89%8d%e7%ab%af%e5%bc%80%e5%8f%91" class="header-mark"></a>前端开发</h2><h3 id="框架组件库" class="headerLink">
+    <a href="#%e6%a1%86%e6%9e%b6%e7%bb%84%e4%bb%b6%e5%ba%93" class="header-mark"></a>框架组件库</h3><blockquote>
+  <p>这里只是放了些符合我审美的组件库</p>
+
+</blockquote><h4 id="react-生态" class="headerLink">
+    <a href="#react-%e7%94%9f%e6%80%81" class="header-mark"></a>React 生态</h4><ul>
+<li><a href="https://mantine.dev/" target="_blank" rel="noopener noreferrer">Mantine</a> - 功能齐全的React组件库</li>
+<li><a href="https://mui.com/material-ui/" target="_blank" rel="noopener noreferrer">MUI</a> - Material-UI，Google设计规范的React实现</li>
+<li><a href="https://nextui.org/" target="_blank" rel="noopener noreferrer">NextUI</a> - 现代化的React组件库</li>
+</ul>
+<h4 id="vue-生态" class="headerLink">
+    <a href="#vue-%e7%94%9f%e6%80%81" class="header-mark"></a>Vue 生态</h4><ul>
+<li><a href="https://vuetifyjs.com/zh-Hans/" target="_blank" rel="noopener noreferrer">Vuetify</a> - Material Design的Vue实现</li>
+</ul>
+<h3 id="设计资源" class="headerLink">
+    <a href="#%e8%ae%be%e8%ae%a1%e8%b5%84%e6%ba%90" class="header-mark"></a>设计资源</h3><ul>
+<li><a href="https://uiverse.io/" target="_blank" rel="noopener noreferrer">UIverse</a> - 有很多可以直接使用的 UI 组件</li>
+<li><a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer">Google Fonts</a> - Google 字体库</li>
+<li><a href="https://pictogrammers.com/library/mdi/" target="_blank" rel="noopener noreferrer">Material Design Icons</a> - Material Design 图标库</li>
+<li><a href="https://www.iconfont.cn/" target="_blank" rel="noopener noreferrer">阿里巴巴矢量图标库</a> - 中文图标资源</li>
+</ul>
+<h2 id="后端开发" class="headerLink">
+    <a href="#%e5%90%8e%e7%ab%af%e5%bc%80%e5%8f%91" class="header-mark"></a>后端开发</h2><h3 id="web-框架" class="headerLink">
+    <a href="#web-%e6%a1%86%e6%9e%b6" class="header-mark"></a>Web 框架</h3><ul>
+<li><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">FastAPI</a> - Python 的高性能异步 Web 框架</li>
+<li><a href="https://gin-gonic.com/" target="_blank" rel="noopener noreferrer">Gin</a> - Go 语言的高性能 Web 框架</li>
+</ul>
+<h3 id="web-服务器" class="headerLink">
+    <a href="#web-%e6%9c%8d%e5%8a%a1%e5%99%a8" class="header-mark"></a>Web 服务器</h3><ul>
+<li><a href="https://caddyserver.com/" target="_blank" rel="noopener noreferrer">Caddy</a> - Go 语言编写的 Web 服务器，支持自动部署 SSL 证书，配置清晰易懂，比 Nginx 好用</li>
+</ul>
+<h2 id="杂项工具" class="headerLink">
+    <a href="#%e6%9d%82%e9%a1%b9%e5%b7%a5%e5%85%b7" class="header-mark"></a>杂项工具</h2><ul>
+<li><a href="https://www.wappalyzer.com" target="_blank" rel="noopener noreferrer">Wappalyzer</a> - Web 技术栈分析器</li>
+<li><a href="https://www.json.cn/" target="_blank" rel="noopener noreferrer">JSON格式化验证</a> - Json 解析和格式化验证</li>
+<li>Minecraft - 游戏开发灵感来源</li>
+</ul>]]></description>
+</item></channel>
+</rss>

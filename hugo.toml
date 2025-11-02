@@ -150,10 +150,10 @@ theme = 'DoIt'
     [params.page.comment.giscus]
       enable = true
       # owner/repo
-      dataRepo = ""
-      dataRepoId = ""
-      dataCategory = ""
-      dataCategoryId = ""
+      dataRepo = "USTB-806/dev.806.group"
+      dataRepoId = "R_kgDONG9xzA"
+      dataCategory = "General"
+      dataCategoryId = "DIC_kwDONG9xzM4CxWot"
       dataMapping = "pathname"
       dataReactionsEnabled = "1"
       dataEmitMetadata = "0"

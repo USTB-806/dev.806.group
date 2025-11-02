@@ -33,6 +33,11 @@ theme = 'DoIt'
       # 后加载
       post = "技术导航"
 
+# 首页配置 - 禁用文章列表显示
+[params.home]
+  [params.home.posts]
+    enable = false
+
 # 菜单配置 - 仅保留三个主要模块
 [[menu.main]]
   identifier = "index"
@@ -52,13 +57,7 @@ theme = 'DoIt'
   url = "/about/"
   weight = 3
 
-# 首页配置 - 禁用文章列表显示
-[params.home]
-  [params.home.posts]
-    enable = false
-  name = "About"
-  url = "/about/"
-  weight = 3
+
 
 # 社交媒体链接
 [params.social]

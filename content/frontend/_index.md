@@ -13,12 +13,21 @@ draft: false
 ## Internet/网络知识
 
 - 网络工作原理
+    [互联网是如何工作的？](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+    [互联网是如何运作的](https://www.cloudflare.com/zh-cn/learning/network-layer/how-does-the-internet-work/)
 - HTTP/HTTPS 是什么
+    [http 概述](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Guides/Overview)
 - 浏览器工作原理
+    [渲染页面：浏览器的工作原理](https://developer.mozilla.org/zh-CN/docs/Web/Performance/Guides/How_browsers_work)
 - DNS
+    - url
+        [什么是url](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)
     - 域名
+        [什么是域名](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name)
     - 解析
+        [什么是 DNS？ | DNS 的工作方式](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)
 - 云服务
+    [什么是 web 服务器](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_web_server)
 - 网络代理
 
 ## HTML/超文本标记语言

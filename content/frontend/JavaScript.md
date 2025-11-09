@@ -84,6 +84,55 @@ draft: false
             - HTML属性
             - DOM属性
             - addEventListener方法
-        - DOM
-            - DOM（Document Object Model）文档对象模型
-            - DOM为文档树提供了一个编程接口，可通过JS来操作这个树状结构
+    - DOM
+        - DOM（Document Object Model）文档对象模型
+        - DOM为文档树提供了一个编程接口，可通过JS来操作这个树状结构
+        - DOM API
+            - 获取元素节点方法
+                - document.getElementById
+                - document.getElementsByClassName
+                - document.getElementsByName
+                - document.getElementsByTagName
+                - document.getElementsByTagNameNS
+            - 修改标签方法
+                - .innerHTML
+                    - 可解析HTML 
+                - .innerText
+                    - 忽略HTML标签
+            - 修改样式方法
+                - .style.color='red'
+                - .style.fontsize='20'
+            - DOM属性绑定事件
+                - ```
+                    <button>example</button>
+
+                    var button_element=getElementsByTagName('button')[0]
+                    button_element.onclick=function(){
+                        alert('example')
+                    }
+                  ```
+                - ```
+                    <button>example</button>
+
+                    var button_element=getElementsByTagNam('button')[0]
+                    button_element.addEventListener('click',function(){
+                        alert('example')
+                    })
+                  ```
+            - DOM对象常用方法
+                - appendChild()
+                    - 把新的子节点添加到指定节点
+                - removeChild()
+                    - 删除子节点
+                - replaceChild()
+                    - 替换子节点
+                - insertBefore()
+                    - 在指定节点前插入新的子节点
+                - createAttribute()
+                    - 创建属性节点
+                - createElement()
+                    - 创建元素节点
+                - creatTextNode()
+                    - 创建文本节点
+                - getAttribute()
+                    - 返回指定的属性值

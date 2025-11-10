@@ -136,3 +136,67 @@ draft: false
                     - 创建文本节点
                 - getAttribute()
                     - 返回指定的属性值
+- 移动端布局
+    - 响应式布局方法
+        - 通过rem，vw/vh等单位，实现在不同设备上显示相同比例而适配
+        - 响应式布局，通过媒体查询@media实现一套HTML配合多套CSS实现适配
+    - Viewport
+        - viewport——视区，视口
+            - 指浏览器用来显示网页的区域，决定了网页在用户设备上的显示效果
+        - width=device-width：将视口的宽度设置为屏幕的宽度，确保网页内容不会被缩放，按照设备的实际宽度进行布局
+        - initial-scale=1.0：设置初始缩放级别为1.0，有助于确保网页在加载时以原始大小显示，而不被放大缩小
+        - minmum-scale=1.0：最小缩放比例为1
+        - maxmum-scale=1.0：最大缩放比例为1
+        - user-scalable=no：不允许用户缩放
+    - rem
+        - 在响应式布局与移动端布局中，使用rem而不是px
+        - rem是一个倍数单位，基于html中的font-size属性值的倍数
+        - 利用js设置在不同设备下的font-size值
+- Flex弹性盒子
+    - Flex盒子模型
+        - 采用Flex布局的元素，成为Flex容器（flex container），它所有子元素成为容器成员，称为Flex项目（flex item）
+        - flex container
+          - main axis：主轴
+          - cross axis：交叉轴
+          - main start
+          - main end
+          - cross start
+          - cross end
+        - flex item
+          - main size
+          - cross size
+    - Flex容器属性
+        - flex—direction
+            - 决定主轴方向，即项目排列方向
+            - row（默认值）：从左往右
+            - row-reverse：从右往左
+            - column：从上往下
+            - column-reverse：从下往上
+        - flex-wrap
+            - 默认情况下项目排列在一条轴线，一条轴线排不下的换行方式
+            - nowrap（默认值）：不换行（列）
+            - wrap：主轴横向时从上到下换行，主轴纵向时，从左到右换行
+            - wrap-reverse：主轴横向时从下到上换行，主轴纵向时，从右到左换行 
+        - flex-flow：flex—direction和flex-wrap的简写形式
+        - justify-content
+            - 定义了项目在主轴上的对齐方式
+            - flex-start（默认值）：与主轴起点对齐
+            - flex-end：与主轴终点对齐
+            - center：与主轴的中点对齐
+            - space-between：两端对齐主轴的起点与终点，项目之间间隔相等
+            - space-around：每个项目两侧的间隔相等，项目之间间隔比项目与边框的间隔大一倍
+        - align-items
+            - 定义项目在交叉轴上如何对齐
+            - flex-start（默认值）：交叉轴起点对齐
+            - flex-end：交叉轴终点对齐
+            - center：与交叉轴的中点对齐 
+            - baseline：项目的第一行文字的基线对齐
+            - stretch（默认值）：如果项目未设置高度或设为auto，项目将占满整个容器的高度
+        - align-content
+            - 定义了多根轴线的对齐方式，如果项目只有一根轴线，该属性不起作用
+            - flex-start（默认值）：交叉轴起点对齐
+            - flex-end：交叉轴终点对齐
+            - center：与交叉轴的中点对齐 
+            - space-between：与交叉轴两端对齐，轴线之间间隔平均分布
+            - space-around：每个轴线两侧的间隔相等，轴线之间间隔比项目与边框的间隔大一倍
+            - stretch（默认值）：主轴线占满整个交叉轴

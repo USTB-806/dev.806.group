@@ -148,4 +148,5 @@ draft: false
 
 ---
 
->  ＼(*T▽T*)／ 
+>  本篇文档由 [Fridemn](https://github.com/Fridemn) 编写
+> ＼(*T▽T*)／ 

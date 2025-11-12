@@ -247,3 +247,4 @@ Kubernetes 使用 Pod、Service、Deployment 等概念来管理容器。常见�
 - [ ] 我知道如何使用 IaC（Infrastructure as Code）工具如 Terraform。
 
 > 本篇文档由 [Fridemn](https://github.com/Fridemn) 编写。
+> (●'◡'●)
